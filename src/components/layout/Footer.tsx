@@ -131,7 +131,7 @@ function ContactItem({
 }) {
   return (
     <div className="flex gap-3 items-start text-sm text-white/70 mb-[14px] leading-[1.5] [&_b]:text-white [&_b]:font-medium [&_b]:block">
-      <Icon size={18} className="text-gold mt-0.5 shrink-0" />
+      <span className="text-gold mt-0.5 shrink-0"><Icon size={18} /></span>
       <div>{children}</div>
     </div>
   )
