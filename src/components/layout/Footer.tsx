@@ -58,7 +58,7 @@ export function Footer() {
             </h4>
             <ContactItem icon={IconMapPin}>
               <b>Adresă</b>
-              str. Ștefan cel Mare 73
+              Strada Minsk 28
               <br />
               Chișinău, MD-2001
               <br />
@@ -66,9 +66,7 @@ export function Footer() {
             </ContactItem>
             <ContactItem icon={IconPhone}>
               <b>Telefon</b>
-              +373 22 000 000
-              <br />
-              +373 69 123 456
+              0696 24 315
             </ContactItem>
             <ContactItem icon={IconMail}>
               <b>Email</b>
@@ -81,13 +79,13 @@ export function Footer() {
               Program
             </h4>
             <ContactItem icon={IconClock}>
-              <b>Luni — Vineri</b>09:00 — 20:00
+              <b>Luni — Vineri</b>09:00 — 18:00
             </ContactItem>
             <ContactItem icon={IconClock}>
-              <b>Sâmbătă</b>10:00 — 16:00
+              <b>Sâmbătă</b>09:00 — 15:00
             </ContactItem>
-            <ContactItem icon={IconEmergencyBed}>
-              <b>Urgențe</b>24/7 la cerere
+            <ContactItem icon={IconClock}>
+              <b>Duminică</b>Închis
             </ContactItem>
           </div>
 

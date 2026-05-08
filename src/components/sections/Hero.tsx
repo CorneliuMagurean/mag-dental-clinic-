@@ -118,7 +118,7 @@ function HeroVisual() {
 }
 
 const HERO_META = [
-  { value: '15+', label: 'Ani de experiență' },
-  { value: '2000+', label: 'Pacienți mulțumiți' },
+  { value: '4+', label: 'Ani de experiență' },
+  { value: '1000+', label: 'Pacienți mulțumiți' },
   { value: '4.9★', label: 'Recenzii Google' },
 ]

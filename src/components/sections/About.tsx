@@ -7,7 +7,7 @@ const VALUES = [
     icon: IconAward,
     title: 'Experiență dovedită',
     description:
-      'Peste 15 ani de practică clinică și mii de cazuri tratate cu succes — de la rutină la reconstrucții complexe.',
+      'Peste 4 ani de practică clinică și sute de cazuri tratate cu succes — de la rutină la reconstrucții complexe.',
   },
   {
     icon: IconMicroscope,
@@ -40,7 +40,7 @@ export function About() {
           />
           <p className="text-[17px] text-muted leading-[1.8] mt-[18px]">
             Mag Dental Clinic este un spațiu dedicat sănătății dentare la cel mai înalt standard.
-            De peste 15 ani, echipa noastră de medici stomatologi îmbină expertiza profesională cu
+            De peste 4 ani, echipa noastră de medici stomatologi îmbină expertiza profesională cu
             o abordare profund umană — pentru ca fiecare pacient să se simtă ascultat, înțeles și
             îngrijit.
           </p>
@@ -50,7 +50,7 @@ export function About() {
             clinici premium.
           </p>
           <div className="flex items-center gap-3.5 mt-8 text-navy">
-            <span className="font-serif text-[22px] italic">Dr. Magdalena Cojocaru</span>
+            <span className="font-serif text-[22px] italic">Dr. Artiom Mutavci</span>
             <span className="flex-1 h-px bg-gold max-w-[90px]" />
             <span className="text-xs text-muted tracking-[0.18em] uppercase">
               Medic-șef · Fondator

@@ -38,11 +38,11 @@ export function CtaStrip() {
 
             <div className="flex flex-col gap-3 items-start lg:justify-self-end relative z-10">
               <a
-                href="tel:+37322000000"
+                href="tel:+37369624315"
                 className="font-serif text-[36px] text-gold flex items-center gap-3.5 hover:text-gold-soft transition-colors"
               >
                 <IconPhone size={28} />
-                +373 22 000 000
+                0696 24 315
               </a>
               <Button href="#contact" variant="gold">
                 <IconCalendarPlus size={18} />

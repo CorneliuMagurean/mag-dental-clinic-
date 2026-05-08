@@ -10,13 +10,13 @@ export const STATS: StatData[] = [
   {
     icon: IconUsersGroup,
     prefix: '+',
-    target: 2000,
+    target: 1000,
     label: 'Pacienți mulțumiți care ne-au încredințat zâmbetul lor.',
   },
   {
     icon: IconClockHour3,
     suffix: 'ani',
-    target: 15,
+    target: 4,
     label: 'De experiență clinică și învățare continuă în stomatologie.',
   },
   {
